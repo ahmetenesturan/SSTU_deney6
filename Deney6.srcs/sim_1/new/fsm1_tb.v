@@ -4,7 +4,7 @@ module fsm1_tb;
     reg clk, x;
     wire z;
 
-    fsm1 fsm1_mod(x,clk,z);
+    fsm2 fsm1_mod(x,clk,z);
 
     initial begin
         clk = 0;

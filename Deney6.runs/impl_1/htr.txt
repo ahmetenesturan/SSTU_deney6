@@ -6,4 +6,4 @@
 # Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
 #
 
-vivado -log fsm1.vdi -applog -m64 -product Vivado -messageDb vivado.pb -mode batch -source fsm1.tcl -notrace
+vivado -log fsm2.vdi -applog -m64 -product Vivado -messageDb vivado.pb -mode batch -source fsm2.tcl -notrace

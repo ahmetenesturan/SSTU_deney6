@@ -2,12 +2,12 @@
 # Vivado v2022.2 (64-bit)
 # SW Build 3671981 on Fri Oct 14 04:59:54 MDT 2022
 # IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
-# Start of session at: Wed Nov 30 15:52:08 2022
-# Process ID: 106403
+# Start of session at: Thu Dec  1 10:45:09 2022
+# Process ID: 31698
 # Current directory: /home/ahmetenesturan/Projects/SSTU/Deney6/Deney6.runs/impl_1
-# Command line: vivado -log fsm1.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source fsm1.tcl -notrace
-# Log file: /home/ahmetenesturan/Projects/SSTU/Deney6/Deney6.runs/impl_1/fsm1.vdi
+# Command line: vivado -log fsm2.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source fsm2.tcl -notrace
+# Log file: /home/ahmetenesturan/Projects/SSTU/Deney6/Deney6.runs/impl_1/fsm2.vdi
 # Journal file: /home/ahmetenesturan/Projects/SSTU/Deney6/Deney6.runs/impl_1/vivado.jou
-# Running On: aet-linux, OS: Linux, CPU Frequency: 4000.332 MHz, CPU Physical cores: 4, Host memory: 16614 MB
+# Running On: aet-linux, OS: Linux, CPU Frequency: 3900.095 MHz, CPU Physical cores: 4, Host memory: 16614 MB
 #-----------------------------------------------------------
-source fsm1.tcl -notrace
+source fsm2.tcl -notrace
