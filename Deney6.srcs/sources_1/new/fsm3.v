@@ -8,14 +8,6 @@ module pattern_detector(input x, input clk, output reg z);
 // total 11 states
 // start, 1,10,101,100,1011,1001,10110,10010,101101,100100
 
-    //parameter o = 4'd0,
-    //o_z = 4'd1,
-    //o_z_o = 4'd2,
-    //o_z_z = 4'd3, 
-    //o_z_o_o = 4'd4,
-    //o_z_z_o = 4'd5,
-    //o_z_o_o_z = 4'd6,
-    //o_z_z_o_z
 
     parameter s_start = 4'd0,
     s_1 = 4'd1,

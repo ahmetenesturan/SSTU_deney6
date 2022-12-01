@@ -36,4 +36,4 @@ EAStep()
      fi
 }
 
-EAStep vivado -log fsm2.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source fsm2.tcl
+EAStep vivado -log pattern_detector.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source pattern_detector.tcl
